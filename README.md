@@ -1,73 +1,99 @@
-# Welcome to your Lovable project
+Here’s a **clean, normal, professional README** (no Lovable marketing tone, simple and GitHub-friendly). You can directly replace your current `README.md` with this 👇
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+# AutoScrape AI
 
-## How can I edit this code?
+AutoScrape AI is a web application built using modern frontend technologies. The project is hosted using **GitHub Pages** and developed with a fast, scalable setup.
 
-There are several ways of editing your application.
+🔗 **Live Website:**
+[https://aditya7768.github.io/autoscrape-ai/](https://aditya7768.github.io/autoscrape-ai/)
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🚀 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+* Modern UI built with React
+* Fast development using Vite
+* Styled with Tailwind CSS & shadcn-ui
+* Written in TypeScript for better reliability
+* Easy to deploy and maintain
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠 Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* **Vite**
+* **React**
+* **TypeScript**
+* **Tailwind CSS**
+* **shadcn-ui**
+* **Node.js & npm**
 
-Follow these steps:
+---
+
+## 📦 Getting Started (Run Locally)
+
+### Prerequisites
+
+Make sure you have **Node.js** and **npm** installed.
+Recommended: install via [nvm](https://github.com/nvm-sh/nvm).
+
+### Steps
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Clone the repository
+git clone https://github.com/aditya7768/autoscrape-ai.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate into the project folder
+cd autoscrape-ai
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The app will start with hot-reloading for development.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🌐 Deployment
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+This project is deployed using **GitHub Pages**.
 
-## What technologies are used for this project?
+To deploy updates:
 
-This project is built with:
+1. Make changes locally or directly on GitHub
+2. Commit and push to the `main` branch
+3. GitHub Pages will automatically update the live site
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## ✏️ Editing the Project
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+You can edit the project using:
 
-## Can I connect a custom domain to my Lovable project?
+* Your local IDE (VS Code recommended)
+* GitHub web editor
+* GitHub Codespaces
 
-Yes, you can!
+All changes pushed to the repository will reflect on the live site.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+If you want, I can also:
+
+* Add **badges** (build, license, tech stack)
+* Write a **better project description**
+* Optimize it for **portfolio / resume**
+* Help deploy with a **custom domain**
+
+Just tell me 👍
