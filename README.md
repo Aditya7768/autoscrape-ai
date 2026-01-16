@@ -1,6 +1,4 @@
-Here’s a **clean, normal, professional README** (no Lovable marketing tone, simple and GitHub-friendly). You can directly replace your current `README.md` with this 👇
 
----
 
 # AutoScrape AI
 
