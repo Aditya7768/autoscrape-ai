@@ -85,13 +85,3 @@ All changes pushed to the repository will reflect on the live site.
 
 This project is open-source and available under the **MIT License**.
 
----
-
-If you want, I can also:
-
-* Add **badges** (build, license, tech stack)
-* Write a **better project description**
-* Optimize it for **portfolio / resume**
-* Help deploy with a **custom domain**
-
-Just tell me 👍
